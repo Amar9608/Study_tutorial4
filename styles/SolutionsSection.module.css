@@ -1,0 +1,13 @@
+.solutionsSection {
+    text-align: center;
+    padding: 40px 0;
+  }
+  .solutionsSection h1 {
+    font-size: 50px;
+  }
+  .solutionsSection p {
+    font-size: 26px;
+    margin-top: 30px;
+    color: rgb(102, 102, 102);
+  }
+  

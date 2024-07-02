@@ -1,0 +1,39 @@
+/* styles/MainContent.module.css */
+.main {
+  text-align: center;
+  padding: 100px 0;
+}
+.content h1 {
+  font-size: 100px;
+}
+.highlighted {
+  color: aqua;
+}
+.content p {
+  font-size: 22px;
+  margin-top: 30px;
+  color: rgb(102, 102, 102);
+}
+.subtext {
+  margin-top: 5px;
+}
+.buttonGroup {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  gap: 10px;
+}
+.startTrialButton, .learnMoreButton {
+  height: 49px;
+  width: 180px;
+  font-size: 20px;
+  color: white;
+  border-radius: 7px;
+  border: none;
+}
+.startTrialButton {
+  background-color: rgb(1, 182, 253);
+}
+.learnMoreButton {
+  background-color: black;
+}
